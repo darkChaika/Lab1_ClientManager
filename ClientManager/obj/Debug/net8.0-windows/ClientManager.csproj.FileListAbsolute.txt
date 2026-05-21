@@ -1,0 +1,17 @@
+H:\ПиТПМ\ClientManager\ClientManager\obj\Debug\net8.0-windows\ClientManager.Form1.resources
+H:\ПиТПМ\ClientManager\ClientManager\obj\Debug\net8.0-windows\ClientManager.csproj.GenerateResource.cache
+H:\ПиТПМ\ClientManager\ClientManager\obj\Debug\net8.0-windows\ClientManager.GeneratedMSBuildEditorConfig.editorconfig
+H:\ПиТПМ\ClientManager\ClientManager\obj\Debug\net8.0-windows\ClientManager.AssemblyInfoInputs.cache
+H:\ПиТПМ\ClientManager\ClientManager\obj\Debug\net8.0-windows\ClientManager.AssemblyInfo.cs
+H:\ПиТПМ\ClientManager\ClientManager\obj\Debug\net8.0-windows\ClientManager.csproj.CoreCompileInputs.cache
+H:\ПиТПМ\ClientManager\ClientManager\obj\Debug\net8.0-windows\ClientManager.sourcelink.json
+H:\ПиТПМ\ClientManager\ClientManager\bin\Debug\net8.0-windows\ClientManager.exe
+H:\ПиТПМ\ClientManager\ClientManager\bin\Debug\net8.0-windows\ClientManager.deps.json
+H:\ПиТПМ\ClientManager\ClientManager\bin\Debug\net8.0-windows\ClientManager.runtimeconfig.json
+H:\ПиТПМ\ClientManager\ClientManager\bin\Debug\net8.0-windows\ClientManager.dll
+H:\ПиТПМ\ClientManager\ClientManager\bin\Debug\net8.0-windows\ClientManager.pdb
+H:\ПиТПМ\ClientManager\ClientManager\obj\Debug\net8.0-windows\ClientManager.dll
+H:\ПиТПМ\ClientManager\ClientManager\obj\Debug\net8.0-windows\refint\ClientManager.dll
+H:\ПиТПМ\ClientManager\ClientManager\obj\Debug\net8.0-windows\ClientManager.pdb
+H:\ПиТПМ\ClientManager\ClientManager\obj\Debug\net8.0-windows\ClientManager.genruntimeconfig.cache
+H:\ПиТПМ\ClientManager\ClientManager\obj\Debug\net8.0-windows\ref\ClientManager.dll

@@ -49,13 +49,13 @@ namespace ClientManager
             ).ToList();
         }
 
-        private void SaveClients()
+        public void SaveClients()
         {
             var lines = Clients.Select(c => $"{c.Name}|{c.Email}|{c.Phone}|{c.Address}");
             File.WriteAllLines("client.txt", lines);
         }
 
-        private void LoadClients()
+        public void LoadClients()
         {
             if (!File.Exists("client.txt"))
                 return;
