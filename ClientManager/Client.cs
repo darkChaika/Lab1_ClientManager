@@ -20,5 +20,9 @@ namespace ClientManager
             Phone = phone;
             Address = address;
         }
+        public override string ToString()
+        {
+            return Name;
+        }
     }
 }
